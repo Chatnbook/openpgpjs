@@ -27,7 +27,7 @@
 
 import type_mpi from '../type/mpi.js';
 import util from '../util.js';
-const nodeCrypto = util.detectNode() && require('crypto');
+const nodeCrypto = require('crypto');
 
 export default {
   /**
