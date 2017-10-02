@@ -62,7 +62,7 @@
     "asmcrypto-lite": "^1.0.0",
     "chai": "~3.5.0",
     "rusha": "^0.8.3",
-    "sinon": "^1.17.3",
+    "sinon": "^1.17.3"
   },
   "repository": {
     "type": "git",
